@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T05:45:41.174Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" version="22.0.6" etag="jLsIAx07vD_pTqtDWPcs" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-21T05:51:05.801Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="ILB8T_3f66iCHQyHw598" version="22.0.6" type="github">
   <diagram name="Page-1" id="U14BwMV9wk0P_1CCDPT4">
-    <mxGraphModel>
+    <mxGraphModel dx="453" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VeK4mP1iCeMg-4jHYcrq-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Islamic Human Development Index&lt;br&gt;(Y)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VeK4mP1iCeMg-4jHYcrq-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Tingkat Kemiskinan&lt;br&gt;(X1)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VeK4mP1iCeMg-4jHYcrq-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pertumbuhan Ekonomi&lt;br&gt;(X2)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VeK4mP1iCeMg-4jHYcrq-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.406;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VeK4mP1iCeMg-4jHYcrq-2" target="VeK4mP1iCeMg-4jHYcrq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="400" as="sourcePoint" />
+            <mxPoint x="330" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeK4mP1iCeMg-4jHYcrq-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.594;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VeK4mP1iCeMg-4jHYcrq-3" target="VeK4mP1iCeMg-4jHYcrq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="150" as="sourcePoint" />
+            <mxPoint x="320" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
